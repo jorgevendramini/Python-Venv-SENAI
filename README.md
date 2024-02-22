@@ -2,7 +2,7 @@
 
 Repositório criado para as aulas de ambiente virtual do SENAI.
 
-# # Instruções para executar
+# Instruções para executar
 1° Coloque o arquivo de texto no diretório que você gostaria de armazenar.
 
 2° Use o CMD para encontrar o caminho onde o arquivo está.
